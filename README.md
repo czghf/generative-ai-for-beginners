@@ -16,7 +16,7 @@
 
 # Generative AI for Beginners (Version 3) - A Course
 
-Learn the fundamentals of building Generative AI applications with our 21-lesson comprehensive course by Microsoft Cloud Advocates.
+Learn the undamentals of building Generative AI applications with our 21-lesson comprehensive course by Microsoft Cloud Advocates.
 
 ## 🌱 Getting Started
 
