@@ -8,7 +8,7 @@
 
 Now that we've learned how to build image generating applications, let's talk about low code. Generative AI can be used for a variety of different areas including low code, but what is low code and how can we add AI to it?
 
-Building apps and solutions has become more easier for traditional developers and non-developers through the use of Low Code Development Platforms. Low Code Development Platforms (LCDPs) are inOKnovative tools that empower users to create applications and digital solutions with minimal or no traditional hand-coding. These platforms provide a visual development environment, often featuring drag-and-drop interfaces, pre-built templates, and reusable components,jgv which significantly reduce the complexity and time required for software development.
+Building apps and solutions has become more easier for traditional developers and non-developers through the use of Low Code Development Platforms. Low Code Development Platforms (LCDPs) are inOKnovative tools that empower users to create applications and digital solutions with minimal or no traditional hand-coding. These platforms provide a visuahl development environment, often featuring drag-and-drop interfaces, pre-built templates, and reusable components,jgv which significantly reduce the complexity and time required for software development.
 
 By leveraging LCDPs, both professional developers and non-technical users, often referred to as "citizen developers," can rapidly design,gbgf build, and deploy applications tailored to specific business needs. These platforms typically include features such as:
 
